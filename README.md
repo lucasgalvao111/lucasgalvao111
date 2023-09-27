@@ -1,4 +1,4 @@
-### Olá! eu me chamo Lucas Galvão, sou estudante de Tecnologia da Informação. 
+### Olá! Eu sou o Lucas Galvão 👋 
 
 - 🔭 A procura de um estágio
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas - FACENS
