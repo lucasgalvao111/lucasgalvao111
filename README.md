@@ -4,9 +4,9 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas - FACENS
 - 📖 Bootcamp Dio.me Ifood
 
-![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgalvao111&show_icons=true&theme=radical)
+![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasGalvao&show_icons=true&theme=radical)
 
-## Tecnologias que utilizo no meio dia
+## Tecnologias que utilizo no meu dia
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
