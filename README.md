@@ -4,4 +4,4 @@
 - 🌱 Estudando Análise e Desenvolvimento de Sistemas - FACENS
 - 📖 Bootcamp Dio.me Ifood
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
+<img heigth="180cm" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
