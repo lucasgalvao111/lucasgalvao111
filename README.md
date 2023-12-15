@@ -1,16 +1,35 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1702675153~exp=1702675753~hmac=58af2c269b1ea4e352930504100dc5b6f612be0cd6aa40f937f1c515e2b9341e">
 
+
 <h1>
      <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://scontent.fcpq17-1.fna.fbcdn.net/v/t1.6435-9/65951703_1206918626147393_1011387488796672_n.png?_nc_cat=105&ccb=1-7&_nc_sid=7a1959&_nc_ohc=AqnftQqWvVkAX_8-yO3&_nc_ht=scontent.fcpq17-1.fna&oh=00_AfCBZlT8ByavQeWuz2DTmdgc_q34ZuBxiwFuUCJqyjRopg&oe=65A4304E"></a>
     <span>Lucas Galvão</span>
 </h1>
 
+
 <p align="justify">Estudante de Análise e Desenvolvimento de sistemas no Centro Universitário Facens, atualmente explorando diferentes áreas do desenvolvimento enquanto avanço na faculdade, meu primeiro contato com essa área tecnológica foi no meu TCC do Técnico em Mecatrônica onde foi necessário utilizar a linguagem C. 
 </p>
+
+
+<h3 align="left">Sobre mim</h3>
+
+💻 Estou aprendendo e tenho interesse em diversas áreas, buscando descobrir minha paixão no mundo do desenvolvimento.
+
+🌱 Linguagens que estou focado: Python e C.
+
+🎓 Desenvolvi um sistema de regagem automática por controle de umidade como parte do meu TCC em Mecatrônica.
+
+⚙️ Utilizo metodologia ágil, principalmente o Scrum, para orientar meus projetos.
+
+🔭 A procura de um estágio
+
 
 <h3 align="left">Connect with me</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
+
+<h3 align="left">GitHub Stats</h3>
+
 
 
 
