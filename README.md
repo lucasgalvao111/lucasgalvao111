@@ -15,13 +15,22 @@
 
 💻 Estou aprendendo e tenho interesse em diversas áreas, buscando descobrir minha paixão no mundo do desenvolvimento.
 
-🌱 Linguagens que estou focado: Python e C.
-
 🎓 Desenvolvi um sistema de regagem automática por controle de umidade como parte do meu TCC em Mecatrônica.
 
 ⚙️ Utilizo metodologia ágil, principalmente o Scrum, para orientar meus projetos.
 
 🔭 A procura de um estágio
+
+
+<h3 align="left">Interesses e Hobbies</h3>
+
+Fora do mundo da programação / T.I :
+
+🎮 Adoro jogar videogames.
+
+🏎️ Sou apaixonado por automobilismo.
+
+⚽ Gosto de esportes em geral.
 
 
 <h3 align="left">Connect with me</h3>
