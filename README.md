@@ -32,9 +32,6 @@ Fora do mundo da programação / T.I :
 
 
 <h3 align="left">Conecte-se comigo</h3>
-</div> 
-  <a href="https://www.linkedin.com/in/lucasgalv%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=FFFFFF&color=0077B5)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
 
