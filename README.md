@@ -41,16 +41,9 @@ Fora do mundo da programação / T.I :
 
 <h3 align="left">GitHub Stats</h3>
 
-### Tecnologias que utilizo no meu dia
 
+<h3 align="left">Tecnologias que utilizo no meu dia</h3>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-</div>
-
-### Entre em contato
-
-</div> 
-  <a href="https://www.linkedin.com/in/lucasgalv%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
