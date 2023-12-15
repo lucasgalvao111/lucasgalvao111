@@ -1,7 +1,7 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1702675153~exp=1702675753~hmac=58af2c269b1ea4e352930504100dc5b6f612be0cd6aa40f937f1c515e2b9341e">
 
 <h1>
-     <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://logowiki.net/uploads/logo/a/ayrton-senna-1.svg"></a>
+     <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://attachments.gupy.io/production/companies/18781/career/41293/images/2021-12-16_11-01_institutionalImage1.png"></a>
     <span>Lucas Galvão</span>
 </h1>
 
