@@ -31,8 +31,8 @@ Fora do mundo da programação / T.I :
 ⚽ Gosto de esportes em geral.
 
 
-<h3 align="left">Connect with me</h3>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
+<h3 align="left">Conecte-se comigo</h3>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
 
 <h3 align="left">Cursos e Certificações</h3>
 📖 Bootcamp Dio Potência Tech Ifood Programação do Zero
