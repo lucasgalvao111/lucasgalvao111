@@ -1,8 +1,6 @@
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
 
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://w1.pngwing.com/pngs/178/898/png-transparent-web-design-computer-software-custom-software-software-development-process-web-application-software-house-business-productivity-software-web-development.png">
-
-
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://png.pngtree.com/png-vector/20190613/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496222.jpg">
 
 
 
