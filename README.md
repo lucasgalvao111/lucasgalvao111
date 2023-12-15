@@ -44,7 +44,7 @@ Fora do mundo da programação / T.I :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasgalvao111&show_icons=true&theme=merko)
 
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/karanalpe)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalvao111&layout=compact)](https://github.com/lucasgalvao111)
 
 
 <h3 align="left">Tecnologias que utilizo no meu dia</h3>
