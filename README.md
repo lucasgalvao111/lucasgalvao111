@@ -32,7 +32,7 @@ Fora do mundo da programação / T.I :
 
 
 <h3 align="left">Conecte-se comigo</h3>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white")](https://www.linkedin.com/in/lucasgalv%C3%A3o)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0077B5&color:FFF)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
 
 <h3 align="left">Cursos e Certificações</h3>
 📖 Bootcamp Dio Potência Tech Ifood Programação do Zero
