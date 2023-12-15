@@ -5,11 +5,12 @@
     <span>Lucas Galvão</span>
 </h1>
 
+<p align="justify">Estudante de Análise e Desenvolvimento de sistemas no Centro Universitário Facens, atualmente explorando diferentes áreas do desenvolvimento enquanto avanço na faculdade, meu primeiro contato com essa área tecnológica foi no meu TCC do Técnico em Mecatrônica onde foi necessário utilizar a linguagem C. 
+</p>
 
+<h3 align="left">Connect with me</h3>
 
-
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
 
 
 
@@ -29,6 +30,6 @@
 ### Entre em contato
 
 </div> 
-  <a href="https://www.linkedin.com/in/lucas-galv%C3%A3o-795270292/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lucasgalv%C3%A3o" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
