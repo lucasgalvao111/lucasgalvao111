@@ -1,6 +1,4 @@
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png">
-
-<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="200" src="https://png.pngtree.com/png-vector/20190613/ourmid/pngtree-web-development-illustration-modern-can-be-used-for-landing-pages-web-png-image_1496222.jpg">
+<img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1702675153~exp=1702675753~hmac=58af2c269b1ea4e352930504100dc5b6f612be0cd6aa40f937f1c515e2b9341e">
 
 
 
