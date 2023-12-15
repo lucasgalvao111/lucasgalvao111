@@ -12,7 +12,6 @@
 
 
 <h3 align="left">Sobre mim</h3>
-
 💻 Estou aprendendo e tenho interesse em diversas áreas, buscando descobrir minha paixão no mundo do desenvolvimento.
 
 🎓 Desenvolvi um sistema de regagem automática por controle de umidade como parte do meu TCC em Mecatrônica.
@@ -23,7 +22,6 @@
 
 
 <h3 align="left">Interesses e Hobbies</h3>
-
 Fora do mundo da programação / T.I :
 
 🎮 Adoro jogar videogames.
@@ -34,19 +32,12 @@ Fora do mundo da programação / T.I :
 
 
 <h3 align="left">Connect with me</h3>
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/lucasgalv%C3%A3o)
 
+<h3 align="left">Cursos e Certificações</h3>
+📖 Bootcamp Dio Potência Tech Ifood Programação do Zero
+
 <h3 align="left">GitHub Stats</h3>
-
-
-
-
-### Olá! Eu sou o Lucas Galvão 👋 
-
-- 🔭 A procura de um estágio
-- 🌱 Estudando Análise e Desenvolvimento de Sistemas - FACENS
-- 📖 Bootcamp Dio.me Ifood
 
 ### Tecnologias que utilizo no meu dia
 
