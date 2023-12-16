@@ -52,3 +52,6 @@ Fora do mundo da programação / T.I :
   <img align="center" alt="Rafa-Python" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 </div>
+<br>
+
+<h3 align="right">Made with by Lucas Galvão ✍️</h3>
