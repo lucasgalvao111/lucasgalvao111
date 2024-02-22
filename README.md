@@ -2,7 +2,7 @@
 
 
 <h1>
-     <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://scontent.fcpq17-1.fna.fbcdn.net/v/t1.6435-9/65951703_1206918626147393_1011387488796672_n.png?_nc_cat=105&ccb=1-7&_nc_sid=7a1959&_nc_ohc=AqnftQqWvVkAX_8-yO3&_nc_ht=scontent.fcpq17-1.fna&oh=00_AfCBZlT8ByavQeWuz2DTmdgc_q34ZuBxiwFuUCJqyjRopg&oe=65A4304E"></a>
+     <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://scontent.fcpq17-1.fna.fbcdn.net/v/t1.6435-9/56476834_1147972298708693_4432146756137910272_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_ohc=2mM5S27YAEEAX8NuhZn&_nc_ht=scontent.fcpq17-1.fna&oh=00_AfBy2zKA3zbN0JES9r3e5wmNT7GoxoJNhA_Sfz2velOh-w&oe=65FEB67A"></a>
     <span>Lucas Galvão</span>
 </h1>
 
@@ -12,6 +12,7 @@
 
 
 <h3 align="left">Sobre mim</h3>
+
 💻 Estou aprendendo e tenho interesse em diversas áreas, buscando descobrir minha paixão no mundo do desenvolvimento.
 
 🎓 Desenvolvi um sistema de regagem automática por controle de umidade como parte do meu TCC em Mecatrônica.
