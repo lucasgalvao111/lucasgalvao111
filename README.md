@@ -2,7 +2,7 @@
 
 
 <h1>
-     <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://scontent.fcpq17-1.fna.fbcdn.net/v/t1.6435-9/56476834_1147972298708693_4432146756137910272_n.png?_nc_cat=106&ccb=1-7&_nc_sid=7a1959&_nc_ohc=2mM5S27YAEEAX8NuhZn&_nc_ht=scontent.fcpq17-1.fna&oh=00_AfBy2zKA3zbN0JES9r3e5wmNT7GoxoJNhA_Sfz2velOh-w&oe=65FEB67A"></a>
+     <img align="center" alt="Logo Lucas Galvão" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Instituto_Ayrton_Senna_-_Logo_%28cropped%29.png"></a>
     <span>Lucas Galvão</span>
 </h1>
 
