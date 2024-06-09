@@ -52,6 +52,10 @@ Fora do mundo da programação / T.I :
 <div style="display: inline_block">
   <img align="center" alt="Rafa-Python" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+     <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+     <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+     <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+     <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
 </div>
 <br>
 
