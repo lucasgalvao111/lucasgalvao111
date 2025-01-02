@@ -15,10 +15,17 @@
 </p>
 
 
+<h3 align="left">Formações</h3>
+<ul>
+    <li>🎖️ Técnico em Mecatrônica - Instituto Federal de Educação Ciência e Tecnologia de São Paulo</li>
+</ul>
+
+
 <h3 align="left">Cursos e Certificações</h3>
 <ul>
     <li>📖 Bootcamp Dio Potência Tech Ifood Programação do Zero - Dio</li>
     <li>📖 Hackers do Bem - Governo Federal do Brasil</li>
+    <li>📖 Santander Bootcamp Cibersegurança #2 - Dio</li>
 </ul>
 
 
