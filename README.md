@@ -22,11 +22,10 @@
 </ul>
 
 
-<h3 align="left">GitHub Stats</h3>
+<h3 align="left">Contribuições</h3>
 
 <div style="display: flex; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api?username=lucasgalvao111&show_icons=true&theme=merko" alt="Lucas Galvão GitHub stats" style="margin-right: 10px;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasgalvao111&layout=compact&theme=merko" alt="Lucas Galvão Top Linguagens"/>
+    <img src="https://streak-stats.demolab.com?user=lucasgalvao111&theme=merko&locale=pt_BR&card_width=500"/>
 </div>
 
 
