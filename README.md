@@ -4,7 +4,7 @@
 </h1>
 
 
-<img align="right" alt="Programador" height="380" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1702675153~exp=1702675753~hmac=58af2c269b1ea4e352930504100dc5b6f612be0cd6aa40f937f1c515e2b9341e">
+<img align="right" alt="Programador" width="300" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1702675153~exp=1702675753~hmac=58af2c269b1ea4e352930504100dc5b6f612be0cd6aa40f937f1c515e2b9341e">
 
 
 <p align="justify">Cursando Análise e Desenvolvimento de Sistemas na Facens Sorocaba, tenho conhecimentos em linguagens de programação como Python, C e Java; já na área de dados meus conhecimentos são em SQL, Power BI e Excel Avançado. 
