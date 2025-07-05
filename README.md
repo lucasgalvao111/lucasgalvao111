@@ -7,25 +7,18 @@
 <img align="right" alt="Programador" height="380" src="https://img.freepik.com/free-vector/code-typing-concept-illustration_114360-3581.jpg?w=740&t=st=1702675153~exp=1702675753~hmac=58af2c269b1ea4e352930504100dc5b6f612be0cd6aa40f937f1c515e2b9341e">
 
 
-<p align="justify">Estudante de Análise e Desenvolvimento de Sistemas no Centro Universitário Facens, atualmente explorando diferentes áreas do desenvolvimento enquanto avanço na faculdade, meu primeiro contato com essa área tecnológica foi no meu TCC do Técnico em Mecatrônica onde foi necessário utilizar a linguagem C. 
+<p align="justify">Cursando Análise e Desenvolvimento de Sistemas na Facens Sorocaba, tenho conhecimentos em linguagens de programação como Python, C e Java; já na área de dados meus conhecimentos são em SQL, Power BI e Excel Avançado. 
 </p>
 
 
-<p align="justify">Além do ADS, estou sempre participando de cursos online e bootcamps para reforçar os ensinamentos e adquirir novos conhecimentos, mergulhando cada vez mais fundo no universo Tech.
+<p align="justify">Sou apaixonado por tecnologia e automobilismo, busco aprender e desenvolver soluções inovadoras, tenho facilidade em trabalhar em equipe, comunicação e se adaptar a novidades.
 </p>
 
 
 <h3 align="left">Formações</h3>
 <ul>
     <li>🎖️ Técnico em Mecatrônica - Instituto Federal de Educação Ciência e Tecnologia de São Paulo</li>
-</ul>
-
-
-<h3 align="left">Cursos e Certificações</h3>
-<ul>
-    <li>📖 Bootcamp Dio Potência Tech Ifood Programação do Zero - Dio</li>
-    <li>📖 Hackers do Bem - Governo Federal do Brasil</li>
-    <li>📖 Santander Bootcamp Cibersegurança #2 - Dio</li>
+    <li>🔁 Tecnólogo em Análise e Desenvolvimento de Sistemas - Facens Sorocaba</li>
 </ul>
 
 
@@ -54,12 +47,14 @@
 
 <h3 align="left">Tecnologias que utilizo no meu dia</h3>
 <div style="display: inline_block">
-  <img align="center" alt="Rafa-Python" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Rafa-Java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Vscode" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Rafa-Sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
-  <img align="center" alt="Rafa-Github" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Python" height="45" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg">
+  <img align="center" alt="Sql" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  <img align="center" alt="Vscode" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Github" height="45" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg">
+  <img align="center" alt="Office" height="45" width="40" src="https://img.icons8.com/?size=100&id=vIbsCQXkSp6l&format=png&color=000000">
+  <img align="center" alt="Power BI" height="45" width="40" src="https://img.icons8.com/?size=100&id=3sGOUDo9nJ4k&format=png&color=000000">
 </div>
 <br>
 
