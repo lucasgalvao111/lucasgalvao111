@@ -24,7 +24,7 @@
 
 <h3 align="left">Contribuições</h3>
 
-<div style="display: flex; justify-content: space-between;">
+<div align="center">
     <img src="https://streak-stats.demolab.com?user=lucasgalvao111&theme=merko&locale=pt_BR&card_width=500"/>
 </div>
 
